@@ -11,3 +11,4 @@ console.log(sumOfTheDigitsOfHarshadNumber(18));
 
 
 
+ 
