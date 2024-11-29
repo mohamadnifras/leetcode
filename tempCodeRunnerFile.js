@@ -1,1 +1,1 @@
-odd
+return b
