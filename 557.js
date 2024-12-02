@@ -1,6 +1,4 @@
 
-
-
 var reverseWords = function(s) {
 let d = s.split(" ")
 let a =d.map((text)=> text.split("").reverse().join(""))
