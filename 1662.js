@@ -6,7 +6,9 @@ var arrayStringsAreEqual = function(word1, word2) {
     }
     return false
 };
-console.log(arrayStringsAreEqual(["ab", "c", 'd'],["abcd"]));
+console.log(arrayStringsAreEqual(["ab", "c"],["ab", "c"]));
+console.log(arrayStringsAreEqual(["a", "cb"],["ab", "c"]));
+console.log(arrayStringsAreEqual(["abc", "d", "defg"],["abcddefg"]));
 
 
 
