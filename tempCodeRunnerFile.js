@@ -1,1 +1,1 @@
-return count
+ binaryOne=binaryNumber.filter((binary)=> binary===1)
