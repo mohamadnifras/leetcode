@@ -10,3 +10,5 @@ var maximumOddBinaryNumber = function (s) {
     return result
 };
 console.log(maximumOddBinaryNumber("010"));
+
+
